@@ -1,0 +1,39 @@
+*{
+margin: 0%;
+}
+.container{
+    background:rgb(2, 22, 43);
+    height: calc(100vh - 50px);
+    margin: auto;
+  text-align: center;
+}
+.container h1{
+    text-align: center;
+    font-family: monospace;
+    color: blanchedalmond;
+    font-size: 50px;
+    padding: 20px;
+}
+.dice{
+     text-align: center;
+  display: inline-block;
+  margin: 6em;
+}
+p{
+    font-family: monospace;
+    color: blanchedalmond;
+    font-size: 25px;
+}
+.dice img{
+    padding: 2em;
+}
+footer{
+    text-align: center;
+    padding: 15px;
+    color: blanchedalmond;
+    background: #b01712;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
